@@ -34,7 +34,7 @@ aktywuj
 
 zainstaluj wymagane moduły
 
-    python -m pip install -r ./requirements
+    python -m pip install -r ./requirement
 
 rozpocznij działanie programu
 
