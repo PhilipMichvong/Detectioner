@@ -14,7 +14,7 @@ pip upgrade
 
 pobierz github repo
 
-    git clone
+    git clone https://github.com/PhilipMichvong/Detectioner
 
 Przejdz do odpowiedniego katalogu
 
