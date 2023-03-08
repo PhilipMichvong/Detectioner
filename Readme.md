@@ -81,9 +81,6 @@ A w kolejnym kroku skrypt zamienia obrazy na tablice liczbowe z wykorzystaniem f
 
 Następnie wyznaczamy ROI naszych zdjęć (czyli region of intrest, region zainteresowania) jest to nam potrzebne aby nie analizować całości zdjęcia a tylko interesujący nas element, twarz.
 
-Następnie wyznaczamy ROI naszych zdjęć (czyli region of intrest, region zainteresowania) jest to nam potrzebne aby nie analizować całości zdjęcia a tylko interesujący nas element, twarz.
-
-Następnie wyznaczamy ROI naszych zdjęć (czyli region of intrest, region zainteresowania) jest to nam potrzebne aby nie analizować całości zdjęcia a tylko interesujący nas element, twarz.
 </br>
 
 ## Face_Recognition.py
